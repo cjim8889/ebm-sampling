@@ -166,3 +166,6 @@ dataset/
 wandb/
 
 ebm/
+data/
+
+.vscode/
